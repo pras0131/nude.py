@@ -7,7 +7,6 @@ Nudity detection with Python. Port of `nude.js`_ to Python.
 
 .. _`nude.js`: https://github.com/pa7/nude.js
 
-
 Installation
 ------------
 from pip::
